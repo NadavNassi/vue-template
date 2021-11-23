@@ -1,0 +1,10 @@
+.home {
+    text-align: center;
+
+    .login-form {
+        &-input {
+            display: block;
+            margin-block-end: rem(12px);
+        }
+    }
+}
